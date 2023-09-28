@@ -1,0 +1,69 @@
+Starting the project -> Right click on the project -> Run As -> Run on Server
+
+Project will be deployed on the Browser.
+
+------------------------------------------------------------------------------------------------
+Index page will be visible in the browser
+-----------------------------------------------------------------------------------------------
+1. Register as Client
+
+2. Register as WareHouse
+
+3. Register as Inquiry
+------------------------------------------------------------------------------------------------
+
+1. Login as Admin ( email : Admin@gmail.com, pass : Admin@123 )
+
+2. View Users
+ 
+3. Add products ( Load Products from source code folder Products )
+
+4. View Products List
+
+5. logout
+
+--------------------------------------------------------------------------------------------------
+1. Login as client
+
+2. view orders ( For making returns data - randomly generated )
+
+3. make returns
+
+4. check returns and status ( Perform same for some products )
+
+5 logout
+--------------------------------------------------------------------------------------------------
+
+
+2. Login as Inquiry using the credentials
+
+3. Check and update the returns 
+
+4. Logout
+
+--------------------------------------------------------------------------------------------------
+
+1. Login as warehouse person using the credentials given at registration
+
+2. Check the capacity of Each warehouse
+
+3. View the current incomming of returned products
+	( allocate to warehouse )
+	( view volume metric of returned products )
+	( Allocate to warehouse )
+
+4. Logout
+
+--------------------------------------------------------------------------------------------------
+
+1. Login as Renovate ( email : renovate@gmail.com, pass : renovate@123 )
+
+2. View the defective products in Warehouse
+
+3. Logout
+
+------------------------------------ X --------------------------------------------------------------
+
+
+
+ 
